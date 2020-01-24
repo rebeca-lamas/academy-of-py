@@ -1,1 +1,2 @@
-# academy-of-py
+# Academy of Py
+Pandas was used to analyze district-wide standardized test results. The data was agregated to examine for trends in school performance. The following were created: district summary, school summary, top performing schools (by passing rate), bottom performing schools (by passing rate), math scores by grade, reading scores by grade, scores by school spending, scores by school size, and scores by school type.
